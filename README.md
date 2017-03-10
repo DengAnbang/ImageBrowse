@@ -1,2 +1,1 @@
-# ImageBrowse
-查看图片
+#ImageBrowse
